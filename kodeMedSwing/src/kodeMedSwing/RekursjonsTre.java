@@ -16,7 +16,8 @@ import java.util.Random;
  * 
  * Inspirasjon: https://www.youtube.com/watch?v=0jjeOYMjmDU&t=7s&ab_channel=TheCodingTrain
  * 
- * @author <strong>Eirik Sundbø, 258030 </strong>
+ * @author <strong>Eirik Sundbø, 258030; Zakharii Korol, 246978 </strong>
+ *                 
  */
 
 public class RekursjonsTre extends JPanel {
