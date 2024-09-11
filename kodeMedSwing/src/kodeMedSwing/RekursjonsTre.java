@@ -52,7 +52,7 @@ public class RekursjonsTre extends JPanel {
      * Lager UI til applikasjon. Inneholder også lytte-metoder for å tegne treet ut fra brukerens valgte verdier. Inneholder ellers ingen andre funksjoner.
      */
     public void startUI() {
-    	JFrame frame = new JFrame("RekursjonsTre");
+    	JFrame frame = new JFrame("Rekursjons-Tre");
         
         // Slider for å justere vinkelen
         JSlider vinkelSlider = new JSlider(0, 100, 25);
